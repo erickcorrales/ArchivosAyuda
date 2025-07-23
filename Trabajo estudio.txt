@@ -1,0 +1,7 @@
+CleanCode
+Patrones de dise;o en los programas
+Fundamentos de programacion
+Entendimiento de los lenguajes de programacion
+Solid
+Best Practices
+Ingles

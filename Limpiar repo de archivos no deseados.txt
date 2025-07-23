@@ -1,0 +1,42 @@
+¡Perfecto! Entonces para eliminar los archivos .exe de tu historial usando git-filter-repo con Python, ejecuta desde la carpeta de tu repositorio:
+
+python -m git_filter_repo --path-glob '*.exe' --invert-paths
+Eso eliminará todos los .exe de todo el historial.
+
+Luego recuerda:
+
+Agrega *.exe a tu .gitignore para que no se vuelvan a subir:
+
+echo '*.exe' >> .gitignore
+git add .gitignore
+git commit -m "Ignorar archivos .exe"
+
+Haz push forzado para actualizar el repo remoto:
+git push --force
+
+
+
+
+
+PASO 1: Agrega __pycache__/ a .gitignore
+Esto evita que vuelva a añadirse en el futuro.
+
+
+echo __pycache__/ >> .gitignore
+✅ PASO 2: Elimina __pycache__/ del índice de Git (del seguimiento)
+
+git rm -r --cached __pycache__/
+--cached: lo quita del control de versiones pero no borra la carpeta de tu disco.
+
+-r: borra recursivamente.
+
+✅ PASO 3: Realiza un commit con los cambios
+
+git commit -m "Eliminar __pycache__ del repositorio y añadirlo al .gitignore"
+✅ PASO 4: Sube los cambios al repositorio remoto
+
+git push origin main
+
+
+
+

@@ -1,0 +1,199 @@
+🔹 1. Python
+📘 Documentación oficial:
+https://docs.python.org/3/
+
+🎓 Cursos:
+
+freeCodeCamp (gratuito)
+
+Python.org Beginner's Guide
+
+Coursera – Python for Everybody (gratuito con opción a certificado pago)
+
+Udemy – Python completo de cero a experto (pago)
+
+🔹 2. JavaScript
+📘 Documentación oficial (MDN Web Docs):
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+🎓 Cursos:
+
+JavaScript en freeCodeCamp
+
+The Odin Project – Full Stack JS
+
+JavaScript.info (muy bien explicado)
+
+🔹 3. C#
+📘 Documentación oficial (Microsoft):
+https://learn.microsoft.com/en-us/dotnet/csharp/
+
+🎓 Cursos:
+
+Microsoft Learn (gratuito)
+
+Udemy – C# desde cero (pago)
+
+Coursera – C# Programming for Unity
+
+🔹 4. Java
+📘 Documentación oficial:
+https://docs.oracle.com/en/java/
+
+🎓 Cursos:
+
+Java Programming – Coursera
+
+JetBrains Academy
+
+Codecademy – Learn Java
+
+🔹 5. C++
+📘 Documentación oficial (ISO estándar con ejemplos):
+https://en.cppreference.com/
+
+🎓 Cursos:
+
+Sololearn – C++ (gratis)
+
+Udemy – C++ desde cero (pago)
+
+Coursera – C++ for C Programmers
+
+🔹 6. HTML, CSS y Web
+📘 Documentación oficial (MDN Web Docs):
+
+HTML
+
+CSS
+
+🎓 Cursos:
+
+freeCodeCamp – Responsive Web Design
+
+The Odin Project – Web Development 101
+
+🔹 7. SQL
+📘 Documentación (depende del motor, por ejemplo):
+
+MySQL
+
+PostgreSQL
+
+🎓 Cursos:
+
+Mode Analytics SQL Tutorial (interactivo)
+
+Kaggle – Intro to SQL
+
+🛠 Plataformas generales recomendadas:
+freeCodeCamp.org
+
+The Odin Project
+
+Coursera.org
+
+edX.org
+
+Udemy.com
+
+Codecademy.com
+
+🔧 Semana 1–2: JavaScript Moderno y Backend (Node.js + Express)
+Objetivo: Dominar JS moderno (ES6+) y crear APIs RESTful con Express.
+
+Documentación clave:
+
+JavaScript (MDN)
+
+Node.js
+
+Express
+
+Recursos sugeridos:
+
+Curso: The Odin Project – Full Stack JavaScript
+
+Proyecto práctico:
+Crear una API de tareas con Express y base de datos MongoDB (o PostgreSQL más adelante).
+
+📱 Semana 3–4: Aplicaciones móviles con React Native
+Objetivo: Crear apps móviles usando JS (React Native).
+
+Documentación:
+
+React Native
+
+Curso recomendado:
+
+React Native en Academind (YouTube)
+
+Proyecto práctico:
+
+Una app de notas o seguimiento de tareas.
+
+🧠 Semana 5–6: Inteligencia Artificial con Python + OpenAI
+Objetivo: Aprender cómo funcionan los modelos y APIs de IA.
+
+Documentación:
+
+OpenAI API Docs
+
+Python (oficial)
+
+Scikit-learn
+
+TensorFlow (Intro)
+
+Curso práctico:
+
+Curso gratuito: Machine Learning Crash Course - Google
+
+Proyecto práctico:
+
+Crear un bot de preguntas/respuestas o un generador de texto.
+
+🛡️ Semana 7–8: Ciberseguridad para desarrolladores
+Objetivo: Aprender fundamentos de seguridad para proteger tus aplicaciones.
+
+Documentación & cursos:
+
+OWASP Top 10
+
+Curso práctico: Web Security Academy - PortSwigger
+
+Proyecto práctico:
+
+Analizar vulnerabilidades básicas (XSS, SQLi) en una app de prueba (como DVWA o Juice Shop).
+
+🗃️ Semana 9: PostgreSQL y bases de datos NoSQL
+Objetivo: Aprender otras formas de manejar datos.
+
+Documentación:
+
+PostgreSQL
+
+MongoDB
+
+Proyecto práctico:
+
+Migrar una app a PostgreSQL y probar MongoDB con datos no relacionales.
+
+🚀 Semana 10 en adelante: Proyectos personales + portafolio
+Objetivo: Consolidar lo aprendido construyendo algo propio.
+
+Ideas:
+
+Aplicación de tareas multiplataforma
+
+Dashboard de análisis de texto con IA
+
+Sistema de seguridad web con auditorías simples
+
+Herramientas que te ayudarán:
+🐱 GitHub (para alojar tus proyectos)
+
+🐳 Docker (para ambientes aislados)
+
+🎓 FreeCodeCamp, MDN Web Docs, W3Schools para referencias rápidas
+
