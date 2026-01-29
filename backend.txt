@@ -1,0 +1,61 @@
+El código backend (o "lado del servidor") es el motor invisible de las
+aplicaciones web y móviles. Su función principal es gestionar la lógica,
+las bases de datos, la autenticación de usuarios y la comunicación entre
+el usuario (frontend) y el servidor. 
+Un backend sólido se compone de tres elementos principales y gestiona
+diversas responsabilidades críticas: 
+
+	1. Componentes Principales del Backend
+		El Servidor: Es la computadora (o contenedor/instancia
+		en la nube) que recibe las solicitudes HTTP del cliente,
+		las procesa y envía respuestas.
+		
+		La Base de Datos: Sistema donde se almacena y organiza la
+		información de forma persistente (ej. MySQL, PostgreSQL,
+		MongoDB, Redis).
+		
+		La Aplicación (Lógica de Negocio): El código escrito en
+		lenguajes como Python, Java, Node.js o PHP que define las
+		reglas de funcionamiento de la aplicación. 
+
+
+	2. Qué debe gestionar o procesar el código Backend, el backend debe
+	 gestionar los siguientes aspectos clave:
+
+		Lógica de Negocio: Algoritmos y reglas que hacen funcionar
+		la aplicación, como procesar pagos, gestionar carritos de
+		compra o calcular datos.
+
+
+		API (Application Programming Interface): Creación de endpoints
+		(REST o GraphQL) para que el frontend y servicios externos
+		puedan consumir y enviar datos.
+		
+
+		Autenticación y Autorización: Gestión segura de usuarios, registro,
+		inicio de sesión, contraseñas y permisos (qué usuarios pueden ver qué
+		información).
+		
+		Gestión de Datos: Operaciones CRUD (Crear, Leer, Actualizar, Borrar)
+		en la base de datos, incluyendo la normalización y optimización de consultas.
+
+
+		Seguridad: Validación de datos de entrada (limpiar formularios para evitar inyecciones
+		SQL), cifrado de información sensible y uso de protocolos seguros (HTTPS, OAuth 2.0, JWT).
+		
+
+		Concurrencia y Rendimiento: Manejo de miles de solicitudes simultáneas, uso de caché (Redis)
+		para reducir la carga de la base de datos y optimización de la velocidad del servidor.
+		
+
+		Integración de Servicios Externos: Conexión con APIs de terceros (pasarelas de pago como Stripe,
+		servicios de correo, almacenamiento en la nube). 
+
+	3. Herramientas y tecnologías comunes
+		Lenguajes: Python, Java, Node.js (JavaScript/TypeScript), PHP, Go, Ruby.
+		Frameworks: Express.js, Django, Spring Boot, Laravel.
+		Tecnologías de Despliegue: Docker, Kubernetes, AWS, Google Cloud. 
+	
+
+
+En resumen, el backend garantiza que toda la información se almacene correctamente, sea segura y fluya eficientemente entre el servidor y el usuario. 
